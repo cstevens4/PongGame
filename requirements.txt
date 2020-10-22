@@ -1,0 +1,3 @@
+Required versions to run virtual environment:
+Python Version 3.7.4
+PyGame Version 1.9.6
