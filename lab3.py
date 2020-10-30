@@ -39,7 +39,7 @@ def main():
     y0 = HEIGHT // 2
     vx0 = -VELOCITY
     vy0 = rand.randint(-VELOCITY,VELOCITY)
-    
+
     b0 = Ball(x0,y0, vx0, vy0, screen, wcolor, bgcolor, CONSTS)
     b0.show(wcolor)
 
